@@ -20,9 +20,21 @@ namespace VirgoInventarisTool
     /// </summary>
     public partial class MainWindow : Window
     {
+        private JsonApiHandler jsonApiHandler;
         public MainWindow()
         {
             InitializeComponent();
+            jsonApiHandler = new JsonApiHandler();
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+           Console.WriteLine(jsonApiHandler.getLatestColdDrinks("http://192.168.1.143:8080"));
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            jsonApiHandler.GetToken("http://192.168.1.143:8080" , true);
         }
     }
 }

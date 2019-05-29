@@ -24,13 +24,4 @@ namespace VirgoInventarisTool
             InitializeComponent();
         }
     }
-
-    public class NodeClient
-    {
-
-        public NodeClient()
-        {
-             
-        }
-    }
 }

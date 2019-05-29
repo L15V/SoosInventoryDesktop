@@ -13,3 +13,12 @@ D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoI
 D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Debug\VirgoInventarisTool.csproj.CoreCompileInputs.cache
 D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Debug\VirgoInventarisTool.exe
 D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Debug\VirgoInventarisTool.pdb
+D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Debug\GraphScreen.g.cs
+D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Debug\orderScreen.g.cs
+D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Debug\GraphScreen.baml
+D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Debug\orderScreen.baml
+D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Debug\VirgoInventarisTool.csproj.CopyComplete
+D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\bin\Debug\Newtonsoft.Json.dll
+D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\bin\Debug\Newtonsoft.Json.xml
