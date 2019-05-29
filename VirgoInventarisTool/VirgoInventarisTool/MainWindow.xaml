@@ -17,8 +17,8 @@
                 </TransformGroup>
             </TextBlock.RenderTransform>
         </TextBlock>
-        <Button Content="Verkoop verloop" HorizontalAlignment="Left" Margin="72,311,0,0" VerticalAlignment="Top" Width="216" Height="45"/>
-        <Button Content="Bestelling" HorizontalAlignment="Left" Margin="508,311,0,0" VerticalAlignment="Top" Width="216" Height="45"/>
+        <Button Content="Verkoop verloop" HorizontalAlignment="Left" Margin="72,311,0,0" VerticalAlignment="Top" Width="216" Height="45" Click="Button_Click"/>
+        <Button Content="Bestelling" HorizontalAlignment="Left" Margin="508,311,0,0" VerticalAlignment="Top" Width="216" Height="45" Click="Button_Click_1"/>
 
     </Grid>
 </Window>
