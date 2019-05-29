@@ -23,5 +23,19 @@ namespace VirgoInventarisTool
         {
             InitializeComponent();
         }
+
+        private void OrderScreen_Home_Click(object sender, RoutedEventArgs e)
+        {
+            MainWindow mw = new MainWindow();
+            mw.Show();
+            this.Close();
+        }
+
+        private void OrderScreen_Quotems_Click(object sender, RoutedEventArgs e)
+        {
+            QuoteScreen qs = new QuoteScreen();
+            qs.Show();
+            this.Close();
+        }
     }
 }

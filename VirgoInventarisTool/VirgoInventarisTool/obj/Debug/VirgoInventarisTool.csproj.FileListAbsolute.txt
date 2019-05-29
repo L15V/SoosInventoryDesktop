@@ -22,3 +22,5 @@ D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoI
 D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Debug\VirgoInventarisTool.csproj.CopyComplete
 D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\bin\Debug\Newtonsoft.Json.dll
 D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\bin\Debug\Newtonsoft.Json.xml
+D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Debug\QuoteScreen.g.cs
+D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Debug\QuoteScreen.baml
