@@ -5,9 +5,61 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:VirgoInventarisTool"
         mc:Ignorable="d"
-        Title="QuoteScreen" Height="450" Width="800">
+        Title="QuoteScreen" Height="480.667" Width="800">
     <Grid>
         <Button x:Name="QuoteScreen_Back" Content="Back" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="75" Click="QuoteScreen_Back_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,45,0,0" TextWrapping="Wrap" Text="Cola" VerticalAlignment="Top"/>
+        <TextBox x:Name="qCola" HorizontalAlignment="Left" Height="23" Margin="106,44,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="32"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,72,0,0" TextWrapping="Wrap" Text="Cola zero" VerticalAlignment="Top"/>
+        <TextBox x:Name="qColaZ" HorizontalAlignment="Left" Height="23" Margin="106,71,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="32" RenderTransformOrigin="1.719,0.551"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,99,0,0" TextWrapping="Wrap" Text="Sprite" VerticalAlignment="Top"/>
+        <TextBox x:Name="qSprite" HorizontalAlignment="Left" Height="23" Margin="106,98,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="32"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,124,0,0" TextWrapping="Wrap" Text="Fuzetea Green" VerticalAlignment="Top"/>
+        <TextBox x:Name="qFuzeG" HorizontalAlignment="Left" Height="23" Margin="106,124,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="32"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,151,0,0" TextWrapping="Wrap" Text="Fuzetea Sparkling" VerticalAlignment="Top"/>
+        <TextBox x:Name="qFuzeS" HorizontalAlignment="Left" Height="23" Margin="106,149,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="32"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,178,0,0" TextWrapping="Wrap" Text="Fuzetea Black tea" VerticalAlignment="Top"/>
+        <TextBox x:Name="qFuzeB" HorizontalAlignment="Left" Height="23" Margin="106,177,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="32"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,205,0,0" TextWrapping="Wrap" Text="Fanta" VerticalAlignment="Top" RenderTransformOrigin="-1.093,0.501"/>
+        <TextBox x:Name="qFanta" HorizontalAlignment="Left" Height="23" Margin="106,205,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="32"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,232,0,0" TextWrapping="Wrap" Text="Cassis" VerticalAlignment="Top"/>
+        <TextBox x:Name="qCassis" HorizontalAlignment="Left" Height="23" Margin="106,231,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="32"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,259,0,0" TextWrapping="Wrap" Text="O2 Geel" VerticalAlignment="Top"/>
+        <TextBox x:Name="qO2Ge" HorizontalAlignment="Left" Height="23" Margin="106,258,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="32"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,282,0,0" TextWrapping="Wrap" Text="O2 Rood" VerticalAlignment="Top"/>
+        <TextBox x:Name="qO2R" HorizontalAlignment="Left" Height="23" Margin="106,283,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="32"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,309,0,0" TextWrapping="Wrap" Text="O2 Groen" VerticalAlignment="Top"/>
+        <TextBox x:Name="qO2Gr" HorizontalAlignment="Left" Height="23" Margin="106,309,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="32"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,336,0,0" TextWrapping="Wrap" Text="Redbull" VerticalAlignment="Top"/>
+        <TextBox x:Name="qRedbull" HorizontalAlignment="Left" Height="23" Margin="106,336,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="32"/>
+        <TextBlock HorizontalAlignment="Left" Margin="11,361,0,0" TextWrapping="Wrap" Text="Fristi" VerticalAlignment="Top"/>
+        <TextBox x:Name="qFristi" HorizontalAlignment="Left" Height="23" Margin="106,361,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="32"/>
+        <TextBlock HorizontalAlignment="Left" Margin="11,388,0,0" TextWrapping="Wrap" Text="Chocomel" VerticalAlignment="Top"/>
+        <TextBox x:Name="qChocomel" HorizontalAlignment="Left" Height="23" Margin="106,387,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="32"/>
+        <TextBlock HorizontalAlignment="Left" Margin="11,415,0,0" TextWrapping="Wrap" Text="Spa Rood" VerticalAlignment="Top"/>
+        <TextBox x:Name="qSpaR" HorizontalAlignment="Left" Height="23" Margin="106,414,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="32"/>
+        <TextBlock HorizontalAlignment="Left" Margin="145,45,0,0" TextWrapping="Wrap" Text="Hertog Jan" VerticalAlignment="Top"/>
+        <TextBox x:Name="qHertogJan" HorizontalAlignment="Left" Height="23" Margin="241,44,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="32"/>
+        <TextBlock HorizontalAlignment="Left" Margin="145,72,0,0" TextWrapping="Wrap" Text="Jupiler" VerticalAlignment="Top"/>
+        <TextBox x:Name="qJupiler" HorizontalAlignment="Left" Height="23" Margin="241,71,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="32" RenderTransformOrigin="1.719,0.551"/>
+        <TextBlock HorizontalAlignment="Left" Margin="145,99,0,0" TextWrapping="Wrap" Text="Liefmans" VerticalAlignment="Top"/>
+        <TextBox x:Name="qLiefmans" HorizontalAlignment="Left" Height="23" Margin="241,98,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="32"/>
+        <TextBlock HorizontalAlignment="Left" Margin="145,124,0,0" TextWrapping="Wrap" Text="Leffe Blond" VerticalAlignment="Top"/>
+        <TextBox x:Name="qLeffeB" HorizontalAlignment="Left" Height="23" Margin="241,124,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="32"/>
+        <TextBlock HorizontalAlignment="Left" Margin="145,151,0,0" TextWrapping="Wrap" Text="Palm" VerticalAlignment="Top"/>
+        <TextBox x:Name="qPalm" HorizontalAlignment="Left" Height="23" Margin="241,149,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="32"/>
+        <TextBlock HorizontalAlignment="Left" Margin="145,178,0,0" TextWrapping="Wrap" Text="Hoegaarde" VerticalAlignment="Top"/>
+        <TextBox x:Name="qHoegaarde" HorizontalAlignment="Left" Height="23" Margin="241,177,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="32"/>
+        <TextBlock HorizontalAlignment="Left" Margin="145,205,0,0" TextWrapping="Wrap" Text="Witte wijn" VerticalAlignment="Top" RenderTransformOrigin="-1.093,0.501"/>
+        <TextBox x:Name="qWijnW" HorizontalAlignment="Left" Height="23" Margin="241,205,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="32"/>
+        <TextBlock HorizontalAlignment="Left" Margin="145,232,0,0" TextWrapping="Wrap" Text="Rode wijn" VerticalAlignment="Top"/>
+        <TextBox x:Name="qWijnR" HorizontalAlignment="Left" Height="23" Margin="241,231,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="32"/>
+        <TextBlock HorizontalAlignment="Left" Margin="145,259,0,0" TextWrapping="Wrap" Text="Bacardi" VerticalAlignment="Top"/>
+        <TextBox x:Name="qBacardi" HorizontalAlignment="Left" Height="23" Margin="241,258,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="32"/>
+        <TextBlock HorizontalAlignment="Left" Margin="145,282,0,0" TextWrapping="Wrap" Text="Bacardi Razz" VerticalAlignment="Top"/>
+        <TextBox x:Name="qBacardiR" HorizontalAlignment="Left" Height="23" Margin="241,283,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="32"/>
+        <Button x:Name="SaveButton" Content="Save" HorizontalAlignment="Left" Margin="696,10,0,0" VerticalAlignment="Top" Width="86" Click="SaveButton_Click"/>
+        <Button x:Name="OverviewButton" Content="Krijg Overzicht" HorizontalAlignment="Left" Margin="696,44,0,0" VerticalAlignment="Top" Width="86" Click="OverviewButton_Click"/>
 
     </Grid>
 </Window>
