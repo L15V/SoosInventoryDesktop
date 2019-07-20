@@ -27,14 +27,16 @@ namespace VirgoInventarisTool
             jsonApiHandler = new JsonApiHandler();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void orderButton_Onclick(object sender, RoutedEventArgs e)
         {
-           Console.WriteLine(jsonApiHandler.getLatestColdDrinks("http://192.168.1.143:8080"));
+            orderScreen os = new orderScreen();
+            os.Show();
+            this.Close();
         }
 
-        private void Button_Click_1(object sender, RoutedEventArgs e)
+        private void Button_Click(object sender, RoutedEventArgs e)
         {
-            jsonApiHandler.GetToken("http://192.168.1.143:8080" , true);
+
         }
     }
 }

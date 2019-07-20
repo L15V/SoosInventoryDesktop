@@ -1,0 +1,51 @@
+D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\bin\Release\VirgoInventarisTool.exe.config
+D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\bin\Release\VirgoInventarisTool.exe
+D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\bin\Release\VirgoInventarisTool.pdb
+D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\bin\Release\Microsoft.Xaml.Behaviors.dll
+D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\bin\Release\Newtonsoft.Json.dll
+D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\bin\Release\Microsoft.Xaml.Behaviors.xml
+D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\bin\Release\Newtonsoft.Json.xml
+D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Release\GraphScreen.g.cs
+D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Release\MainWindow.g.cs
+D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Release\OrderScreen.g.cs
+D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Release\QuoteScreen.g.cs
+D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Release\App.g.cs
+D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Release\VirgoInventarisTool_MarkupCompile.cache
+D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Release\VirgoInventarisTool_MarkupCompile.lref
+D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Release\GraphScreen.baml
+D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Release\MainWindow.baml
+D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Release\OrderScreen.baml
+D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Release\QuoteScreen.baml
+D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Release\VirgoInventarisTool.g.resources
+D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Release\VirgoInventarisTool.Properties.Resources.resources
+D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Release\VirgoInventarisTool.csproj.GenerateResource.cache
+D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Release\VirgoInventarisTool.csproj.CoreCompileInputs.cache
+D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Release\VirgoInventarisTool.csproj.CopyComplete
+D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Release\VirgoInventarisTool.exe
+D:\Documenten\Projecten\Virgo\InventarisTool\Desktop\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Release\VirgoInventarisTool.pdb
+D:\Documenten\Projecten\Github after herinstall\Virgo inventaris tool\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Release\VirgoInventarisTool.csprojAssemblyReference.cache
+D:\Documenten\Projecten\Github after herinstall\Virgo inventaris tool\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Release\GraphScreen.g.cs
+D:\Documenten\Projecten\Github after herinstall\Virgo inventaris tool\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Release\MainWindow.g.cs
+D:\Documenten\Projecten\Github after herinstall\Virgo inventaris tool\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Release\OrderScreen.g.cs
+D:\Documenten\Projecten\Github after herinstall\Virgo inventaris tool\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Release\QuoteScreen.g.cs
+D:\Documenten\Projecten\Github after herinstall\Virgo inventaris tool\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Release\App.g.cs
+D:\Documenten\Projecten\Github after herinstall\Virgo inventaris tool\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Release\VirgoInventarisTool_MarkupCompile.cache
+D:\Documenten\Projecten\Github after herinstall\Virgo inventaris tool\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Release\VirgoInventarisTool_MarkupCompile.lref
+D:\Documenten\Projecten\Github after herinstall\Virgo inventaris tool\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Release\VirgoInventarisTool.exe
+D:\Documenten\Projecten\Github after herinstall\Virgo inventaris tool\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Release\VirgoInventarisTool.pdb
+D:\Documenten\Projecten\Github after herinstall\Virgo inventaris tool\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\bin\Release\VirgoInventarisTool.exe.config
+D:\Documenten\Projecten\Github after herinstall\Virgo inventaris tool\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\bin\Release\VirgoInventarisTool.exe
+D:\Documenten\Projecten\Github after herinstall\Virgo inventaris tool\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\bin\Release\VirgoInventarisTool.pdb
+D:\Documenten\Projecten\Github after herinstall\Virgo inventaris tool\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\bin\Release\Microsoft.Xaml.Behaviors.dll
+D:\Documenten\Projecten\Github after herinstall\Virgo inventaris tool\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\bin\Release\Newtonsoft.Json.dll
+D:\Documenten\Projecten\Github after herinstall\Virgo inventaris tool\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\bin\Release\Microsoft.Xaml.Behaviors.xml
+D:\Documenten\Projecten\Github after herinstall\Virgo inventaris tool\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\bin\Release\Newtonsoft.Json.xml
+D:\Documenten\Projecten\Github after herinstall\Virgo inventaris tool\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Release\GraphScreen.baml
+D:\Documenten\Projecten\Github after herinstall\Virgo inventaris tool\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Release\MainWindow.baml
+D:\Documenten\Projecten\Github after herinstall\Virgo inventaris tool\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Release\OrderScreen.baml
+D:\Documenten\Projecten\Github after herinstall\Virgo inventaris tool\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Release\QuoteScreen.baml
+D:\Documenten\Projecten\Github after herinstall\Virgo inventaris tool\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Release\VirgoInventarisTool.g.resources
+D:\Documenten\Projecten\Github after herinstall\Virgo inventaris tool\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Release\VirgoInventarisTool.Properties.Resources.resources
+D:\Documenten\Projecten\Github after herinstall\Virgo inventaris tool\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Release\VirgoInventarisTool.csproj.GenerateResource.cache
+D:\Documenten\Projecten\Github after herinstall\Virgo inventaris tool\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Release\VirgoInventarisTool.csproj.CoreCompileInputs.cache
+D:\Documenten\Projecten\Github after herinstall\Virgo inventaris tool\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Release\VirgoInventarisTool.csproj.CopyComplete
