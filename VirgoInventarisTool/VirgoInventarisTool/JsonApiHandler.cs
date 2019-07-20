@@ -219,6 +219,62 @@ namespace VirgoInventarisTool
 
             return allAlcoholDrinks;
         }
+
+        public void insertcoldDrinkItems(String url, List<DrinkItem> drinks)
+        {
+            JObject jobject = new JObject();
+
+            foreach (DrinkItem i in drinks)
+            {
+                jobject.Add(i.getName(), i.getAmount());
+            }
+
+            var httpWebRequest = (HttpWebRequest)WebRequest.Create(url + "/api/insertcolddrinks/");
+            httpWebRequest.ContentType = "application/json";
+            httpWebRequest.Method = "POST";
+            httpWebRequest.Headers.Add("access-token", Properties.Settings.Default.Token);
+
+            using (var streamWriter = new StreamWriter(httpWebRequest.GetRequestStream()))
+            {
+                
+
+                streamWriter.Write(jobject);
+            }
+
+            var httpResponse = (HttpWebResponse)httpWebRequest.GetResponse();
+            using (var streamReader = new StreamReader(httpResponse.GetResponseStream()))
+            {
+                var result = streamReader.ReadToEnd();
+            }
+        }
+
+        public void insertalcoholDrinkItems(String url, List<DrinkItem> drinks)
+        {
+            JObject jobject = new JObject();
+
+            foreach (DrinkItem i in drinks)
+            {
+                jobject.Add(i.getName(), i.getAmount());
+            }
+
+            var httpWebRequest = (HttpWebRequest)WebRequest.Create(url + "/api/insertalcohol");
+            httpWebRequest.ContentType = "application/json";
+            httpWebRequest.Method = "POST";
+            httpWebRequest.Headers.Add("access-token", Properties.Settings.Default.Token);
+
+            using (var streamWriter = new StreamWriter(httpWebRequest.GetRequestStream()))
+            {
+
+
+                streamWriter.Write(jobject);
+            }
+
+            var httpResponse = (HttpWebResponse)httpWebRequest.GetResponse();
+            using (var streamReader = new StreamReader(httpResponse.GetResponseStream()))
+            {
+                var result = streamReader.ReadToEnd();
+            }
+        }
     }
 
     class DrinkItem

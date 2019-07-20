@@ -23,5 +23,12 @@ namespace VirgoInventarisTool
         {
             InitializeComponent();
         }
+
+        private void HomeButton_Click(object sender, RoutedEventArgs e)
+        {
+            MainWindow mw = new MainWindow();
+            mw.Show();
+            this.Close();
+        }
     }
 }
