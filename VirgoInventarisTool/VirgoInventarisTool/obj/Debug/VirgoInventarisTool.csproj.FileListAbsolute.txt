@@ -50,3 +50,9 @@ D:\Documenten\Projecten\Github after herinstall\Virgo inventaris tool\SoosInvent
 D:\Documenten\Projecten\Github after herinstall\Virgo inventaris tool\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Debug\VirgoInventarisTool.csproj.CopyComplete
 D:\Documenten\Projecten\Github after herinstall\Virgo inventaris tool\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Debug\VirgoInventarisTool.exe
 D:\Documenten\Projecten\Github after herinstall\Virgo inventaris tool\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\obj\Debug\VirgoInventarisTool.pdb
+D:\Documenten\Projecten\Github after herinstall\Virgo inventaris tool\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Documenten\Projecten\Github after herinstall\Virgo inventaris tool\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\bin\Debug\NPOI.dll
+D:\Documenten\Projecten\Github after herinstall\Virgo inventaris tool\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\bin\Debug\NPOI.OOXML.dll
+D:\Documenten\Projecten\Github after herinstall\Virgo inventaris tool\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\bin\Debug\NPOI.OpenXml4Net.dll
+D:\Documenten\Projecten\Github after herinstall\Virgo inventaris tool\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\Documenten\Projecten\Github after herinstall\Virgo inventaris tool\SoosInventoryDesktop\VirgoInventarisTool\VirgoInventarisTool\bin\Debug\ICSharpCode.SharpZipLib.xml

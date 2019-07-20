@@ -2,49 +2,49 @@
 <SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="VirgoInventarisTool.Properties" GeneratedClassName="DrinkQuotums">
   <Profiles />
   <Settings>
-    <Setting Name="Cola" Type="System.Int32" Scope="User">
+    <Setting Name="cola" Type="System.Int32" Scope="User">
       <Value Profile="(Default)">0</Value>
     </Setting>
-    <Setting Name="ColaZero" Type="System.Int32" Scope="User">
+    <Setting Name="cola_zero" Type="System.Int32" Scope="User">
       <Value Profile="(Default)">0</Value>
     </Setting>
-    <Setting Name="Sprite" Type="System.Int32" Scope="User">
+    <Setting Name="sprite" Type="System.Int32" Scope="User">
       <Value Profile="(Default)">0</Value>
     </Setting>
-    <Setting Name="FuzeGreen" Type="System.Int32" Scope="User">
+    <Setting Name="fuze_green" Type="System.Int32" Scope="User">
       <Value Profile="(Default)">0</Value>
     </Setting>
-    <Setting Name="FuzeSparkling" Type="System.Int32" Scope="User">
+    <Setting Name="fuze_sparkling" Type="System.Int32" Scope="User">
       <Value Profile="(Default)">0</Value>
     </Setting>
-    <Setting Name="FuzeBlacktea" Type="System.Int32" Scope="User">
+    <Setting Name="fuze_blacktea" Type="System.Int32" Scope="User">
       <Value Profile="(Default)">0</Value>
     </Setting>
-    <Setting Name="Fanta" Type="System.Int32" Scope="User">
+    <Setting Name="fanta" Type="System.Int32" Scope="User">
       <Value Profile="(Default)">0</Value>
     </Setting>
-    <Setting Name="Cassis" Type="System.Int32" Scope="User">
+    <Setting Name="cassis" Type="System.Int32" Scope="User">
       <Value Profile="(Default)">0</Value>
     </Setting>
-    <Setting Name="o2Geel" Type="System.Int32" Scope="User">
+    <Setting Name="o2_geel" Type="System.Int32" Scope="User">
       <Value Profile="(Default)">0</Value>
     </Setting>
-    <Setting Name="o2Rood" Type="System.Int32" Scope="User">
+    <Setting Name="o2_rood" Type="System.Int32" Scope="User">
       <Value Profile="(Default)">0</Value>
     </Setting>
-    <Setting Name="o2Groen" Type="System.Int32" Scope="User">
+    <Setting Name="o2_groen" Type="System.Int32" Scope="User">
       <Value Profile="(Default)">0</Value>
     </Setting>
-    <Setting Name="Redbull" Type="System.Int32" Scope="User">
+    <Setting Name="redbull" Type="System.Int32" Scope="User">
       <Value Profile="(Default)">0</Value>
     </Setting>
-    <Setting Name="Fristi" Type="System.Int32" Scope="User">
+    <Setting Name="fristi" Type="System.Int32" Scope="User">
       <Value Profile="(Default)">0</Value>
     </Setting>
-    <Setting Name="Chocomel" Type="System.Int32" Scope="User">
+    <Setting Name="chocomel" Type="System.Int32" Scope="User">
       <Value Profile="(Default)">0</Value>
     </Setting>
-    <Setting Name="SpaRood" Type="System.Int32" Scope="User">
+    <Setting Name="spa_rood" Type="System.Int32" Scope="User">
       <Value Profile="(Default)">0</Value>
     </Setting>
     <Setting Name="HertogJan" Type="System.Int32" Scope="User">

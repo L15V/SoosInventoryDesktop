@@ -12,7 +12,7 @@ namespace VirgoInventarisTool.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "16.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "16.1.0.0")]
     internal sealed partial class DrinkQuotums : global::System.Configuration.ApplicationSettingsBase {
         
         private static DrinkQuotums defaultInstance = ((DrinkQuotums)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new DrinkQuotums())));
@@ -26,180 +26,180 @@ namespace VirgoInventarisTool.Properties {
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("0")]
-        public int Cola {
+        public int cola {
             get {
-                return ((int)(this["Cola"]));
+                return ((int)(this["cola"]));
             }
             set {
-                this["Cola"] = value;
+                this["cola"] = value;
             }
         }
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("0")]
-        public int ColaZero {
+        public int cola_zero {
             get {
-                return ((int)(this["ColaZero"]));
+                return ((int)(this["cola_zero"]));
             }
             set {
-                this["ColaZero"] = value;
+                this["cola_zero"] = value;
             }
         }
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("0")]
-        public int Sprite {
+        public int sprite {
             get {
-                return ((int)(this["Sprite"]));
+                return ((int)(this["sprite"]));
             }
             set {
-                this["Sprite"] = value;
+                this["sprite"] = value;
             }
         }
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("0")]
-        public int FuzeGreen {
+        public int fuze_green {
             get {
-                return ((int)(this["FuzeGreen"]));
+                return ((int)(this["fuze_green"]));
             }
             set {
-                this["FuzeGreen"] = value;
+                this["fuze_green"] = value;
             }
         }
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("0")]
-        public int FuzeSparkling {
+        public int fuze_sparkling {
             get {
-                return ((int)(this["FuzeSparkling"]));
+                return ((int)(this["fuze_sparkling"]));
             }
             set {
-                this["FuzeSparkling"] = value;
+                this["fuze_sparkling"] = value;
             }
         }
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("0")]
-        public int FuzeBlacktea {
+        public int fuze_blacktea {
             get {
-                return ((int)(this["FuzeBlacktea"]));
+                return ((int)(this["fuze_blacktea"]));
             }
             set {
-                this["FuzeBlacktea"] = value;
+                this["fuze_blacktea"] = value;
             }
         }
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("0")]
-        public int Fanta {
+        public int fanta {
             get {
-                return ((int)(this["Fanta"]));
+                return ((int)(this["fanta"]));
             }
             set {
-                this["Fanta"] = value;
+                this["fanta"] = value;
             }
         }
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("0")]
-        public int Cassis {
+        public int cassis {
             get {
-                return ((int)(this["Cassis"]));
+                return ((int)(this["cassis"]));
             }
             set {
-                this["Cassis"] = value;
+                this["cassis"] = value;
             }
         }
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("0")]
-        public int o2Geel {
+        public int o2_geel {
             get {
-                return ((int)(this["o2Geel"]));
+                return ((int)(this["o2_geel"]));
             }
             set {
-                this["o2Geel"] = value;
+                this["o2_geel"] = value;
             }
         }
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("0")]
-        public int o2Rood {
+        public int o2_rood {
             get {
-                return ((int)(this["o2Rood"]));
+                return ((int)(this["o2_rood"]));
             }
             set {
-                this["o2Rood"] = value;
+                this["o2_rood"] = value;
             }
         }
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("0")]
-        public int o2Groen {
+        public int o2_groen {
             get {
-                return ((int)(this["o2Groen"]));
+                return ((int)(this["o2_groen"]));
             }
             set {
-                this["o2Groen"] = value;
+                this["o2_groen"] = value;
             }
         }
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("0")]
-        public int Redbull {
+        public int redbull {
             get {
-                return ((int)(this["Redbull"]));
+                return ((int)(this["redbull"]));
             }
             set {
-                this["Redbull"] = value;
+                this["redbull"] = value;
             }
         }
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("0")]
-        public int Fristi {
+        public int fristi {
             get {
-                return ((int)(this["Fristi"]));
+                return ((int)(this["fristi"]));
             }
             set {
-                this["Fristi"] = value;
+                this["fristi"] = value;
             }
         }
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("0")]
-        public int Chocomel {
+        public int chocomel {
             get {
-                return ((int)(this["Chocomel"]));
+                return ((int)(this["chocomel"]));
             }
             set {
-                this["Chocomel"] = value;
+                this["chocomel"] = value;
             }
         }
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("0")]
-        public int SpaRood {
+        public int spa_rood {
             get {
-                return ((int)(this["SpaRood"]));
+                return ((int)(this["spa_rood"]));
             }
             set {
-                this["SpaRood"] = value;
+                this["spa_rood"] = value;
             }
         }
         

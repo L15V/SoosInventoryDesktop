@@ -53,21 +53,21 @@ namespace VirgoInventarisTool
             TBbacardi = (TextBox)qBacardi;
             TBbacardiR = (TextBox)qBacardiR;
 
-            TBcola.Text = Properties.DrinkQuotums.Default.Cola.ToString();
-            TBcolaZero.Text = Properties.DrinkQuotums.Default.ColaZero.ToString();
-            TBsprite.Text = Properties.DrinkQuotums.Default.Sprite.ToString();
-            TBfuzeGreen.Text = Properties.DrinkQuotums.Default.FuzeGreen.ToString();
-            TBfuzeSparkling.Text = Properties.DrinkQuotums.Default.FuzeSparkling.ToString();
-            TBfuzeBlack.Text = Properties.DrinkQuotums.Default.FuzeBlacktea.ToString();
-            TBfanta.Text = Properties.DrinkQuotums.Default.Fanta.ToString();
-            TBcassis.Text = Properties.DrinkQuotums.Default.Cassis.ToString();
-            TBo2Geel.Text = Properties.DrinkQuotums.Default.o2Geel.ToString();
-            TBo2Rood.Text = Properties.DrinkQuotums.Default.o2Rood.ToString();
-            TBo2Groen.Text = Properties.DrinkQuotums.Default.o2Groen.ToString();
-            TBredbull.Text = Properties.DrinkQuotums.Default.Redbull.ToString();
-            TBfristi.Text = Properties.DrinkQuotums.Default.Fristi.ToString();
-            TBchocomel.Text = Properties.DrinkQuotums.Default.Chocomel.ToString();
-            TBspaRood.Text = Properties.DrinkQuotums.Default.SpaRood.ToString();
+            TBcola.Text = Properties.DrinkQuotums.Default.cola.ToString();
+            TBcolaZero.Text = Properties.DrinkQuotums.Default.cola_zero.ToString();
+            TBsprite.Text = Properties.DrinkQuotums.Default.sprite.ToString();
+            TBfuzeGreen.Text = Properties.DrinkQuotums.Default.fuze_green.ToString();
+            TBfuzeSparkling.Text = Properties.DrinkQuotums.Default.fuze_sparkling.ToString();
+            TBfuzeBlack.Text = Properties.DrinkQuotums.Default.fuze_blacktea.ToString();
+            TBfanta.Text = Properties.DrinkQuotums.Default.fanta.ToString();
+            TBcassis.Text = Properties.DrinkQuotums.Default.cassis.ToString();
+            TBo2Geel.Text = Properties.DrinkQuotums.Default.o2_geel.ToString();
+            TBo2Rood.Text = Properties.DrinkQuotums.Default.o2_rood.ToString();
+            TBo2Groen.Text = Properties.DrinkQuotums.Default.o2_groen.ToString();
+            TBredbull.Text = Properties.DrinkQuotums.Default.redbull.ToString();
+            TBfristi.Text = Properties.DrinkQuotums.Default.fristi.ToString();
+            TBchocomel.Text = Properties.DrinkQuotums.Default.chocomel.ToString();
+            TBspaRood.Text = Properties.DrinkQuotums.Default.spa_rood.ToString();
 
             TBhj.Text = Properties.DrinkQuotums.Default.HertogJan.ToString();
             TBjupiler.Text = Properties.DrinkQuotums.Default.Jupiler.ToString();
@@ -90,21 +90,21 @@ namespace VirgoInventarisTool
 
         private void SaveButton_Click(object sender, RoutedEventArgs e)
         {
-            Properties.DrinkQuotums.Default.Cola = Convert.ToInt32(TBcola.Text);
-            Properties.DrinkQuotums.Default.ColaZero = Convert.ToInt32(TBcolaZero.Text);
-            Properties.DrinkQuotums.Default.Sprite = Convert.ToInt32(TBsprite.Text);
-            Properties.DrinkQuotums.Default.FuzeGreen = Convert.ToInt32(TBfuzeGreen.Text);
-            Properties.DrinkQuotums.Default.FuzeSparkling = Convert.ToInt32(TBfuzeSparkling.Text);
-            Properties.DrinkQuotums.Default.FuzeBlacktea = Convert.ToInt32(TBfuzeBlack.Text);
-            Properties.DrinkQuotums.Default.Fanta = Convert.ToInt32(TBfanta.Text);
-            Properties.DrinkQuotums.Default.Cassis = Convert.ToInt32(TBcassis.Text);
-            Properties.DrinkQuotums.Default.o2Geel = Convert.ToInt32(TBo2Geel.Text);
-            Properties.DrinkQuotums.Default.o2Rood = Convert.ToInt32(TBo2Rood.Text);
-            Properties.DrinkQuotums.Default.o2Groen = Convert.ToInt32(TBo2Groen.Text);
-            Properties.DrinkQuotums.Default.Redbull = Convert.ToInt32(TBredbull.Text);
-            Properties.DrinkQuotums.Default.Fristi = Convert.ToInt32(TBfristi.Text);
-            Properties.DrinkQuotums.Default.Chocomel = Convert.ToInt32(TBchocomel.Text);
-            Properties.DrinkQuotums.Default.SpaRood = Convert.ToInt32(TBspaRood.Text);
+            Properties.DrinkQuotums.Default.cola = Convert.ToInt32(TBcola.Text);
+            Properties.DrinkQuotums.Default.cola_zero = Convert.ToInt32(TBcolaZero.Text);
+            Properties.DrinkQuotums.Default.sprite = Convert.ToInt32(TBsprite.Text);
+            Properties.DrinkQuotums.Default.fuze_green = Convert.ToInt32(TBfuzeGreen.Text);
+            Properties.DrinkQuotums.Default.fuze_sparkling = Convert.ToInt32(TBfuzeSparkling.Text);
+            Properties.DrinkQuotums.Default.fuze_blacktea = Convert.ToInt32(TBfuzeBlack.Text);
+            Properties.DrinkQuotums.Default.fanta = Convert.ToInt32(TBfanta.Text);
+            Properties.DrinkQuotums.Default.cassis = Convert.ToInt32(TBcassis.Text);
+            Properties.DrinkQuotums.Default.o2_geel = Convert.ToInt32(TBo2Geel.Text);
+            Properties.DrinkQuotums.Default.o2_rood = Convert.ToInt32(TBo2Rood.Text);
+            Properties.DrinkQuotums.Default.o2_groen = Convert.ToInt32(TBo2Groen.Text);
+            Properties.DrinkQuotums.Default.redbull = Convert.ToInt32(TBredbull.Text);
+            Properties.DrinkQuotums.Default.fristi = Convert.ToInt32(TBfristi.Text);
+            Properties.DrinkQuotums.Default.chocomel = Convert.ToInt32(TBchocomel.Text);
+            Properties.DrinkQuotums.Default.spa_rood = Convert.ToInt32(TBspaRood.Text);
 
             Properties.DrinkQuotums.Default.HertogJan = Convert.ToInt32(TBhj.Text);
             Properties.DrinkQuotums.Default.Jupiler = Convert.ToInt32(TBjupiler.Text);
