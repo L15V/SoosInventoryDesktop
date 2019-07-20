@@ -220,11 +220,11 @@ namespace VirgoInventarisTool
             return allAlcoholDrinks;
         }
 
-        public void insertcoldDrinkItems(String url, List<DrinkItem> drinks)
+        public void insertcoldDrinkItems(String url, List<DrinkInsertItem> drinks)
         {
             JObject jobject = new JObject();
 
-            foreach (DrinkItem i in drinks)
+            foreach (DrinkInsertItem i in drinks)
             {
                 jobject.Add(i.getName(), i.getAmount());
             }
@@ -248,11 +248,11 @@ namespace VirgoInventarisTool
             }
         }
 
-        public void insertalcoholDrinkItems(String url, List<DrinkItem> drinks)
+        public void insertalcoholDrinkItems(String url, List<DrinkInsertItem> drinks)
         {
             JObject jobject = new JObject();
 
-            foreach (DrinkItem i in drinks)
+            foreach (DrinkInsertItem i in drinks)
             {
                 jobject.Add(i.getName(), i.getAmount());
             }
@@ -318,6 +318,38 @@ namespace VirgoInventarisTool
         public void setDate(DateTime date)
         {
             this.dateTime = date;
+        }
+    }
+
+    class DrinkInsertItem
+    {
+        private String name;
+        private int amount;
+
+        public DrinkInsertItem(String name, int amount)
+        {
+            this.name = name;
+            this.amount = amount;
+        }
+
+        public String getName()
+        {
+            return name;
+        }
+
+        public void setName(String name)
+        {
+            this.name = name;
+        }
+
+        public int getAmount()
+        {
+            return amount;
+        }
+
+        public void setAmount(int amount)
+        {
+            this.amount = amount;
         }
     }
 }

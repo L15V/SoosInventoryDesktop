@@ -10,6 +10,7 @@
         <Button x:Name="orderScreen_Home" Content="Home" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="10,10,0,0" Click="OrderScreen_Home_Click"/>
         <Button x:Name="OrderScreen_Quotems" Content="Quotems instellen" HorizontalAlignment="Left" Margin="116,10,0,0" VerticalAlignment="Top" Width="113" Click="OrderScreen_Quotems_Click"/>
         <Button x:Name="overzichtButton" Content="export overzicht" HorizontalAlignment="Left" Margin="257,10,0,0" VerticalAlignment="Top" Width="101" Click="OverzichtButton_Click"/>
+        <Button x:Name="toCorrectionScreen" Content="Correctie" HorizontalAlignment="Left" Margin="382,10,0,0" VerticalAlignment="Top" Width="75"/>
 
     </Grid>
 </Window>

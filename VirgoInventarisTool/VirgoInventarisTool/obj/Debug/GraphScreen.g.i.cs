@@ -40,6 +40,14 @@ namespace VirgoInventarisTool {
     /// </summary>
     public partial class GraphScreen : System.Windows.Window, System.Windows.Markup.IComponentConnector {
         
+        
+        #line 10 "..\..\GraphScreen.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.Button HomeButton;
+        
+        #line default
+        #line hidden
+        
         private bool _contentLoaded;
         
         /// <summary>
@@ -68,6 +76,18 @@ namespace VirgoInventarisTool {
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Maintainability", "CA1502:AvoidExcessiveComplexity")]
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1800:DoNotCastUnnecessarily")]
         void System.Windows.Markup.IComponentConnector.Connect(int connectionId, object target) {
+            switch (connectionId)
+            {
+            case 1:
+            this.HomeButton = ((System.Windows.Controls.Button)(target));
+            
+            #line 10 "..\..\GraphScreen.xaml"
+            this.HomeButton.Click += new System.Windows.RoutedEventHandler(this.HomeButton_Click);
+            
+            #line default
+            #line hidden
+            return;
+            }
             this._contentLoaded = true;
         }
     }

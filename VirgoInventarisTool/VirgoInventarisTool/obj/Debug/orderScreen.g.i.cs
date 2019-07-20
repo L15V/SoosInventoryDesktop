@@ -64,6 +64,14 @@ namespace VirgoInventarisTool {
         #line default
         #line hidden
         
+        
+        #line 13 "..\..\OrderScreen.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.Button toCorrectionScreen;
+        
+        #line default
+        #line hidden
+        
         private bool _contentLoaded;
         
         /// <summary>
@@ -120,6 +128,9 @@ namespace VirgoInventarisTool {
             
             #line default
             #line hidden
+            return;
+            case 4:
+            this.toCorrectionScreen = ((System.Windows.Controls.Button)(target));
             return;
             }
             this._contentLoaded = true;
